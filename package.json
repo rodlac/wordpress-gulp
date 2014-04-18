@@ -1,0 +1,14 @@
+{
+  "name": "wordpress-gulp",
+  "version": "0.0.1",
+  "description": "A simple framework to developer WordPress themes using gulp.js for automate front-end process",
+  "keywords": [
+    "wordpress",
+    "gulp"
+  ],
+  "author": "afilhodaniel",
+  "license": "WTFPL",
+  "devDependencies": {
+    "gulp": "~3.6.1"
+  }
+}
