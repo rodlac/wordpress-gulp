@@ -20,8 +20,8 @@ var
     },
 
 		images: {
-      src: 'img/src/*',
-      dest: 'img/'
+      src: 'img/src/*.png',
+      dest: 'img'
     }
 	};
 
