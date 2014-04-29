@@ -1,4 +1,4 @@
-var
+  var
   gulp = require('gulp'),
 
   concat = require('gulp-concat'),
@@ -11,7 +11,7 @@ var
 
     styles: {
       src: 'css/*.css',
-      dest: 'style.css'
+      dest: 'estilo.css'
     },
 
     scripts: {
